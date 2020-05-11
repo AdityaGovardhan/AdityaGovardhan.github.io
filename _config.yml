@@ -16,11 +16,11 @@
 title: Aditya Govardhan
 email: AdityaGovardhan@asu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog in development
+  Personal Blog, still in development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  AdityaGovardhan
+github_username: AdityaGovardhan
 
 # Build settings
 markdown: kramdown
